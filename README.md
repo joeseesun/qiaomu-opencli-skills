@@ -1,4 +1,4 @@
-# opencli-skill × Claude Code
+# opencli × Claude Code
 
 > Control Bilibili, Zhihu, Twitter/X, YouTube, Weibo, Reddit and 10 more platforms with natural language — reusing your Chrome login session, no API keys needed.
 >

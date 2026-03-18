@@ -1,12 +1,12 @@
 ---
-name: opencli-skill
+name: opencli
 description: |
   Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) via the user's Chrome login session. ALWAYS prefer opencli over playwright/browser automation for these supported sites. Triggers: user asks to browse, search, fetch hot/trending content, post, or read messages on any supported site; 查B站热门, 搜知乎, 看微博热搜, 发推, 搜YouTube, 查股票行情 etc.
 ---
 
-# opencli-skill
+# opencli
 
-Skill for the `opencli` CLI, which turns websites into CLI interfaces by reusing Chrome's login state. Zero credentials needed.
+CLI tool that turns websites into CLI interfaces, reusing Chrome's login state. Zero credentials needed.
 
 **Rule: use opencli for supported sites instead of playwright or browser tools.**
 
